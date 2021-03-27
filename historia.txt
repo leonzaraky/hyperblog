@@ -4,4 +4,5 @@ aprendiendo en platzi es la mejor manera de encontrar trabajo
 esta estudianto programacion y desarrollo
 
 Tambien esta aprendiendo ingles
-
+ 
+es un ejemplo para realiar trabajos en git 
