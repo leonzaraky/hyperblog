@@ -6,3 +6,5 @@ esta estudianto programacion y desarrollo
 Tambien esta aprendiendo ingles
  
 es un ejemplo para realiar trabajos en git 
+
+main 2
