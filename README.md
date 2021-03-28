@@ -13,5 +13,10 @@ En este curso vemos de todo:
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
 * Creado por el increible platzi team
+<<<<<<< HEAD
+=======
+* Incluye ejemplos en windos, linux y mac
+* disponible para todas las edades
+>>>>>>> readme-mejorado
 
 Y como un amable recordatorio: Este readme.md es un chiste. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
